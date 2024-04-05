@@ -1,5 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        Homework.task1();
+        Homework.task2();
+        Homework.task3();
+
     }
 }
